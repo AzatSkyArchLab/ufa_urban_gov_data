@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapPlan xmlns:Spa1="urn://x-artefacts-rosreestr-ru/commons/complex-types/entity-spatial/1.0.2" xmlns:Simple2="urn://x-artefacts-rosreestr-ru/commons/simple-types/2.0.1" xmlns:Simple1="urn://x-artefacts-rosreestr-ru/commons/simple-types/1.0" xmlns:tns="urn://x-artefacts-smev-gov-ru/supplementary/commons/1.0.1" xmlns:Doc2="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-info/2.0.1" xmlns:dUn1="urn://x-artefacts-rosreestr-ru/commons/directories/unit/1.0.1" xmlns:dZo2="urn://x-artefacts-rosreestr-ru/commons/complex-types/zone/2.1.1" xmlns:CadEng2="urn://x-artefacts-rosreestr-ru/commons/complex-types/cadastral-engineer/2.0.1" xmlns:Doc3="urn://x-artefacts-rosreestr-ru/commons/complex-types/document-info/3.1.1" xmlns:Simple4="urn://x-artefacts-rosreestr-ru/commons/simple-types/4.1.1" xmlns:dAl2="urn://x-artefacts-rosreestr-ru/commons/directories/all-documents/2.0.1" xmlns:AdIn2="urn://x-artefacts-rosreestr-ru/commons/complex-types/address-input/2.0.1" GUID="08d6fdf2-ec9a-43ab-be7b-897b7bbe63bb" VersionSoftware="21.2.5.0" NameSoftware="GradInfo" xmlns="urn://x-artefacts-rosreestr-ru/incoming/map-plan/1.0.7">
+  <Title>
+    <Clients>
+      <Client Date="2022-09-28">
+        <Organization>
+          <Name>Главное управление архитектуры и градостроительства Администрации городского округа Город Уфа Республики Башкортостан</Name>
+          <Agent>
+            <Appointment>И.о. начальника Главархитектуры Администрации ГО г. Уфа Республики Башкортостан</Appointment>
+            <tns:FamilyName>Хабибуллин</tns:FamilyName>
+            <tns:FirstName>Ильдар</tns:FirstName>
+            <tns:Patronymic>Мунирович</tns:Patronymic>
+          </Agent>
+        </Organization>
+      </Client>
+    </Clients>
+    <Contractor>
+      <OrganisationContractor>
+        <Name>ООО "Кадастровый центр"</Name>
+        <CodeOGRN>1076671011713</CodeOGRN>
+        <Telephone>8 (343) 379-08-39</Telephone>
+        <Address>620078, Свердловская область, г. Екатеринбург, пер. Фонвизина, д. 3, кв. 49</Address>
+        <Agent>
+          <Appointment>Директор</Appointment>
+          <tns:FamilyName>Рычков</tns:FamilyName>
+          <tns:FirstName>Антон</tns:FirstName>
+          <tns:Patronymic>Владимирович</tns:Patronymic>
+        </Agent>
+      </OrganisationContractor>
+    </Contractor>
+    <Coordinations>
+      <Coordination>
+        <Name>-</Name>
+        <Official>
+          <Appointment>-</Appointment>
+          <tns:FamilyName>-</tns:FamilyName>
+          <tns:FirstName>-</tns:FirstName>
+          <tns:Patronymic>-</tns:Patronymic>
+        </Official>
+      </Coordination>
+    </Coordinations>
+    <Information>
+      <NumberReg>-</NumberReg>
+      <DateReg>2022-09-28</DateReg>
+      <NameArchive>-</NameArchive>
+    </Information>
+  </Title>
+  <Documents>
+    <Document>
+      <CodeDocument>558401010220</CodeDocument>
+      <Number>б/н</Number>
+      <Date>2022-10-06</Date>
+      <IssueOrgan>неизвестная организация</IssueOrgan>
+    </Document>
+    <Document>
+      <CodeDocument>558256000000</CodeDocument>
+      <Name>Единая электронная картографическая основа ЕГРН-космический снимки Esri</Name>
+      <Number>б/н</Number>
+      <Date>2010-01-01</Date>
+      <IssueOrgan>Росреестр</IssueOrgan>
+      <AdditionalMap>
+        <Scale>1:2000</Scale>
+        <DateCreate>2010-01-01</DateCreate>
+        <DateUpdate>2010-01-01</DateUpdate>
+      </AdditionalMap>
+    </Document>
+    <Document>
+      <CodeDocument>558228000000</CodeDocument>
+      <Name>Решение Совета городского округа город Уфа Республики Башкортостан Об утверждении Правил землепользования и застройки городского округа город Уфа Республики Башкортостан</Name>
+      <Number>18/5</Number>
+      <Date>2022-09-28</Date>
+      <IssueOrgan>Совет городского округа город Уфа Республики Башкортостан</IssueOrgan>
+    </Document>
+    <Document>
+      <CodeDocument>558217000000</CodeDocument>
+      <Name>Кадастровый план территории</Name>
+      <Number>КПТДоп02:55:030166</Number>
+      <Date>2022-03-25</Date>
+      <IssueOrgan>неизвестная организация</IssueOrgan>
+    </Document>
+  </Documents>
+  <Object>
+    <Zone>
+      <dZo2:CadastralDistrict>02:55</dZo2:CadastralDistrict>
+      <dZo2:CodeZone>218010010000</dZo2:CodeZone>
+      <dZo2:CodeZoneDoc>Зона малоэтажной многоквартирной жилой застройки</dZo2:CodeZoneDoc>
+      <dZo2:NumberZone>б/н</dZo2:NumberZone>
+      <dZo2:Description>Территориальная зона Ж2.4 Зона малоэтажной многоквартирной жилой застройки</dZo2:Description>
+      <dZo2:Index>Ж2.4</dZo2:Index>
+      <dZo2:Locations>
+        <dZo2:Location>
+          <AdIn2:KLADR>0200000100000</AdIn2:KLADR>
+          <AdIn2:Region>02</AdIn2:Region>
+        </dZo2:Location>
+      </dZo2:Locations>
+      <dZo2:TerritorialZone>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Блокированная жилая застройка</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>1200</dZo2:Max>
+              <dZo2:Min>200</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Малоэтажная многоквартирная жилая застройка</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>50000</dZo2:Max>
+              <dZo2:Min>2000</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Хранение автотранспорта</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Предоставление коммунальных услуг</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Административные здания организаций, обеспечивающих предоставление коммунальных услуг</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Оказание услуг связи</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Амбулаторно-поликлиническое обслуживание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Min>2000</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Дошкольное, начальное и среднее общее образование</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Объекты культурно-досуговой деятельности</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Государственное управление</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Деловое управление</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Магазины</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>3000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Банковская и страховая деятельность</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Общественное питание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>1000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Стоянка транспортных средств</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Обеспечение занятий спортом в помещениях</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Площадки для занятий спортом</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Обеспечение внутреннего правопорядка</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Гидротехнические сооружения</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Земельные участки (территории) общего пользования</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Улично-дорожная сеть</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedPrimary>
+            <dZo2:PermittedUse>Благоустройство территории</dZo2:PermittedUse>
+          </dZo2:PermitedPrimary>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Для индивидуального жилищного строительства</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>2000</dZo2:Max>
+              <dZo2:Min>600</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Размещение гаражей для собственных нужд</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Оказание социальной помощи населению</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Общежития</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Min>1500</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Бытовое обслуживание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Стационарное медицинское обслуживание</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Среднее и высшее профессиональное образование</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Осуществление религиозных обрядов</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Религиозное управление и образование</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Обеспечение деятельности в области гидрометеорологии и смежных с ней областях</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Амбулаторное ветеринарное обслуживание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>1000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Объекты торговли (торговые центры, торгово-развлекательные центры (комплексы)</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+              <dZo2:Min>1000</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Рынки</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Магазины</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>3000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Общественное питание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>1000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Гостиничное обслуживание</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+              <dZo2:Min>1000</dZo2:Min>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Развлекательные мероприятия</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Служебные гаражи</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Заправка транспортных средств</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Обеспечение дорожного отдыха</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>5000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Автомобильные мойки</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>2000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Ремонт автомобилей</dZo2:PermittedUse>
+            <dZo2:LimitSize>
+              <dZo2:Max>2000</dZo2:Max>
+            </dZo2:LimitSize>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Причалы для маломерных судов</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Общее пользование водными объектами</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+        <dZo2:PermittedUses>
+          <dZo2:PermitedConditionally>
+            <dZo2:PermittedUse>Земельные участки, входящие в состав общего имущества собственников индивидуальных жилых домов в малоэтажном жилом комплексе</dZo2:PermittedUse>
+          </dZo2:PermitedConditionally>
+        </dZo2:PermittedUses>
+      </dZo2:TerritorialZone>
+      <EntitySpatial EntSys="МСК-02зона1">
+        <Spa1:SpatialElement>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="1">
+            <Spa1:Ordinate X="668270.49" Y="1367331.13" NumGeopoint="1" DeltaGeopoint="1" GeopointOpred="692001000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="2">
+            <Spa1:Ordinate X="668503.73" Y="1367461.55" NumGeopoint="2" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="3">
+            <Spa1:Ordinate X="668487.93" Y="1367489.11" NumGeopoint="3" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="4">
+            <Spa1:Ordinate X="668508.58" Y="1367583.3" NumGeopoint="4" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="5">
+            <Spa1:Ordinate X="668507.27" Y="1367586.49" NumGeopoint="5" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="6">
+            <Spa1:Ordinate X="668192.48" Y="1367658.09" NumGeopoint="6" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="7">
+            <Spa1:Ordinate X="668173.63" Y="1367575.2" NumGeopoint="7" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="8">
+            <Spa1:Ordinate X="668162.25" Y="1367525.18" NumGeopoint="8" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="9">
+            <Spa1:Ordinate X="668192.05" Y="1367472.98" NumGeopoint="9" DeltaGeopoint="1" GeopointOpred="692003000000" />
+          </Spa1:SpelementUnit>
+          <Spa1:SpelementUnit TypeUnit="Точка" SuNmb="10">
+            <Spa1:Ordinate X="668270.49" Y="1367331.13" NumGeopoint="1" DeltaGeopoint="1" GeopointOpred="692001000000" />
+          </Spa1:SpelementUnit>
+        </Spa1:SpatialElement>
+      </EntitySpatial>
+    </Zone>
+    <Area>
+      <AreaMeter>
+        <Area>72127</Area>
+        <Unit>055</Unit>
+        <Inaccuracy>940</Inaccuracy>
+      </AreaMeter>
+    </Area>
+  </Object>
+  <CoordSystems>
+    <Spa1:CoordSystem Name="СК МСК-02 зона 1" CsId="МСК-02зона1" />
+  </CoordSystems>
+  <Diagram>
+    <AppliedFile Kind="01" Name="AppliedFiles\MapPlan_08d6fdf2-ec9a-43ab-be7b-897b7bbe63bb_Plan.pdf" />
+  </Diagram>
+</MapPlan>
