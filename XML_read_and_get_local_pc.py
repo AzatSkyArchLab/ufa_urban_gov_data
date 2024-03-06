@@ -1,15 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import os
 import zipfile
 import xml.etree.ElementTree as ET
 
 
-# Path to the zip file
+# Path to the zip file. Here just raw example of choosing directory
 zip_file_path = 'C:/Users/Home/Downloads/Уфа Часть1/Ж3.16.zip'
 
 # Directory to extract the file
